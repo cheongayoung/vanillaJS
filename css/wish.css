@@ -1,0 +1,40 @@
+#wish-list_section {
+    justify-items: auto;
+    position: absolute;
+	top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#wish-form input {
+    margin-top: 20px;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid white;
+    opacity: 0.8;
+    color: white;
+    font-size: 2rem;
+}
+
+#wish-form ::placeholder {
+    text-align: center;
+    color: white;
+}
+
+#wisho-form input:focus,
+#wish-form input:active {
+    text-align: center;
+}
+
+#wish-list {
+    text-align: center;
+    position: fixed;
+    color: aliceblue;
+    font-size: large; 
+}
+
+#wish-list button {
+    margin-left: 10px;
+    background-color: transparent;
+    border: none;
+}
