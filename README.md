@@ -1,1 +1,1 @@
-# vanillaJS.github.io
+# vanillaJS
